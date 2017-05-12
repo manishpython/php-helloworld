@@ -1,4 +1,4 @@
-<P><html>
+<html>
 <head>
 <title>PHP Test for OPEN SHIFT </title>
 </head>
